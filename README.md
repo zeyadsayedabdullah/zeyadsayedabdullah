@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**zeyadsayedabdullah/zeyadsayedabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi There 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+I'm Zeyad, an enthusiastic AI student with a passion for exploring the realms of artificial intelligence. 🤖
+
+
+## 🛠 Skills
+
+* Data Science
+* Data Visualization
+* Machine Learning
+* Python (Programming Language)
+* SQL
+* MongoDB
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyadsayed/)
+
+
+
+
+
+## License
+
+[IBM Data Science Professional Certificate](https://www.credly.com/earner/earned/badge/167d7f4a-ea12-4379-9ff8-3f6075591064)
+
+[Machine Learning with Python](https://www.freecodecamp.org/certification/fccf4a112df-6b3a-4c1a-9150-a386a9f1c467/machine-learning-with-python-v7)
+
+[Applied Data Science Lab](https://www.credly.com/badges/21f14496-fbaf-489e-bb36-ccc801f63f46/linked_in_profile)
+
