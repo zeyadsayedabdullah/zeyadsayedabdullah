@@ -7,7 +7,14 @@
 ## 🚀 About Me
 I'm Zeyad, an enthusiastic AI student with a passion for exploring the realms of artificial intelligence. 🤖
 
+## Projects
 
+💻 Check out my projects ! Here are a few highlights:
+
+1. [Book Recommendation Engine using KNN](https://github.com/zeyadsayedabdullah/FCC_Machine_Learning_with_Python/blob/main/fcc_book_recommendation_knn.ipynb) -  A book recommendation algorithm using K-Nearest Neighbors. 
+2. [Movie Rating Predection With Python](https://github.com/zeyadsayedabdullah/codsoft/blob/main/MOVIE_RATING_PREDICTION_WITH_PYTHON.ipynb) -Creating a Linear Regression Model To Predict It's Rating Using Sci-kit Learn.
+3. [Real Time Face Mask Detection](https://github.com/zeyadsayedabdullah/Real-Time-Face-Mask-Detection) - Predict If a Pearson Wearing a mask or not at real time using mobilenet_v2 model from google after tuning it.
+You Can Check The Rest Bellow.
 ## 🛠 Skills
 
 * Data Science
