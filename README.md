@@ -20,6 +20,7 @@ You Can Check The Rest Bellow.
 ## 🛠 Skills
 
 * Data Science
+* Data Analyst
 * Data Visualization
 * Machine Learning
 * Python (Programming Language)
