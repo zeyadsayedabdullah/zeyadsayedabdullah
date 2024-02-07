@@ -32,13 +32,12 @@ You Can Check The Rest Bellow.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyadsayed/)
 
+
+##  My Courses
+
 [Applied Data Science Course (Arabic)](https://www.udemy.com/course/applied-data-science-course-arabic)
 
-
-
-
-
-## License
+## Certificates
 
 [IBM Data Science Professional Certificate](https://www.credly.com/badges/18d85a70-d34d-44d6-a55e-afcab367cdbd/linked_in?t=s5xk4r)
 
