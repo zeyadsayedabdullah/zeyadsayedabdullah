@@ -32,6 +32,8 @@ You Can Check The Rest Bellow.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyadsayed/)
 
+[![Applied Data Science Course (Arabic)]([https://www.linkedin.com/in/zeyadsayed/](https://www.udemy.com/course/applied-data-science-course-arabic/))
+
 
 
 
