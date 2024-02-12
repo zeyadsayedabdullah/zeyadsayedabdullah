@@ -14,16 +14,24 @@ I'm Zeyad, an enthusiastic AI student with a passion for exploring the realms of
 ### Deep Learning Projects: 
 
 [Next Word Prediction](https://www.kaggle.com/code/zeyadsayedadbullah/next-word-prediction/notebook)
+
 [Gesture Volume Controller](https://www.linkedin.com/posts/zeyadsayed_gesture-volume-controller-simple-computer-activity-7162226021688188928-WVOU/)
-[Real Time Face Mask Detection](https://www.linkedin.com/feed/update/urn:li:activity:7141692947757940736/) - Predict If a Pearson Wearing a Mask or Not at Real Time Using Mobilenet_v2 Model From Google After Tuning it.
+
 [GUI App with Taipy and Tensorflow Predicting Images](https://www.linkedin.com/posts/zeyadsayed_machine-learning-gui-app-with-taipy-and-tensorflow-activity-7144733674129854465-rE3I/) 
+
+[Real Time Face Mask Detection](https://www.linkedin.com/feed/update/urn:li:activity:7141692947757940736/) - Predict If a Pearson Wearing a Mask or Not at Real Time Using Mobilenet_v2 Model From Google After Tuning it.
+
 
 ### Machine learning Projects:
 
 [Regression of a Mohs Hardness Dataset Using XGBoost & Optuna](https://www.kaggle.com/code/zeyadsayedadbullah/moh-s-hardness-with-xgboost-optuna)
+
 [Obesity Risk Pred | CATBOOST](https://www.kaggle.com/code/zeyadsayedadbullah/s4e02-obesity-risk-pred-catboost-0-905)
+
 [Obesity Risk Pred | OPTUNA & XGBOOST](https://www.kaggle.com/code/zeyadsayedadbullah/s4e02-optuna-xgboost-0-91)
+
 [Bank Churn Using Catboost And Stratified K-Fold](https://www.kaggle.com/code/zeyadsayedadbullah/playgrounds4e01-bank-churn-eda-catboot-0-89331)
+
 
 You Can Check The Rest Bellow.
 ## 🛠 Skills
