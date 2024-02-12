@@ -19,7 +19,7 @@ I'm Zeyad, an enthusiastic AI student with a passion for exploring the realms of
 
 [GUI App with Taipy and Tensorflow Predicting Images](https://www.linkedin.com/posts/zeyadsayed_machine-learning-gui-app-with-taipy-and-tensorflow-activity-7144733674129854465-rE3I/) 
 
-[Real Time Face Mask Detection](https://www.linkedin.com/feed/update/urn:li:activity:7141692947757940736/) - Predict If a Pearson Wearing a Mask or Not at Real Time Using Mobilenet_v2 Model From Google After Tuning it.
+[Real Time Face Mask Detection](https://www.linkedin.com/feed/update/urn:li:activity:7141692947757940736/)
 
 
 ### Machine learning Projects:
