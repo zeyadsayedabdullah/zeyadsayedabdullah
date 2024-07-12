@@ -2,26 +2,20 @@
 # Hi There 👋
 
 
-
-
 ## 🚀 About Me
-I'm Zeyad, an enthusiastic AI student with a passion for exploring the realms of artificial intelligence. 🤖
+Hello, I'm Zeyad Sayed, an AI student and coder with a passion for deep learning. I've gained experience through courses, internships,
+competitions, and university education. My projects, showcased on Kaggle profile, have earned me a ranking of 674 among 60,000+ for notebook
+rankings. I'm now seeking a full-time Data Scientist role, bringing strong analytical, technical, and communication skills to make an impact in
+data science and machine learning.
 
-## 🛠 Skills
-
-* Data Science
-* Data Analyst
-* Data Visualization
-* Machine Learning
-* Python (Programming Language)
-* SQL
-* MongoDB
-
+[My Resume](https://drive.google.com/file/d/19DbfXF3Jduli3J3JLOHBZKwss1lApKMD/view?usp=sharing)
 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyadsayed/)
+
 [HuggingFace]( https://huggingface.co/Zeyad-Sayed)
+
 [Kaggle](https://www.kaggle.com/zeyadsayedadbullah)
 
 ## Certificates
