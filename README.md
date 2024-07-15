@@ -21,7 +21,9 @@ data science and machine learning.
 ## Certificates
 
 
-[IBM Data Science Professional Certificate](https://www.credly.com/badges/18d85a70-d34d-44d6-a55e-afcab367cdbd/linked_in?t=s5xk4r)
+[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/TEXA4XRC6CH9)
+
+[Machine Learning Specialization by Stanford University & DeepLearning.AI](https://coursera.org/share/5aa98c4a69f3751eb606592f8c185332)
 
 [PyTorch for Deep Learning Bootcamp](https://www.udemy.com/certificate/UC-273a1f09-97f6-4321-a0e8-9e8bc5fe7cb6/)
 
