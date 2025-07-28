@@ -5,8 +5,7 @@
 ## 🚀 About Me
 Hello, I'm Zeyad Sayed, an AI student and coder with a passion for deep learning. I've gained experience through courses, internships,
 competitions, and university education. My projects, showcased on Kaggle profile, have earned me a ranking of 674 among 60,000+ for notebook
-rankings. I'm now seeking a full-time Data Scientist role, bringing strong analytical, technical, and communication skills to make an impact in
-data science and machine learning.
+rankings.
 
 [My Resume](https://drive.google.com/file/d/19DbfXF3Jduli3J3JLOHBZKwss1lApKMD/view?usp=sharing)
 
